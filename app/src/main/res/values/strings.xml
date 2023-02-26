@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SocialX</string>
+    <string name="api_key">864406b97ff942dd88fe7ed404a1501c</string>
+    <string name="title">Apple admits slowing down older iPhones</string>
+    <string name="description">Customer have long suspected iPhones slow down over time.</string>
+    <string name="published_time">2 hours ago</string>
+    <string name="source">BBC</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="signin_into_your_account">Signin into your Account</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="terms_amp_conditions"><u>terms &amp; conditions</u></string>
+    <string name="register">REGISTER</string>
+</resources>
